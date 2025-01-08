@@ -1,6 +1,6 @@
 import os
 from collections import namedtuple
-import cchardet
+
 from hotdoc.parsers.c_comment_scanner.c_comment_scanner import extract_comments
 
 from hotdoc.core.symbols import *
